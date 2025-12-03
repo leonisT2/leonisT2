@@ -29,10 +29,12 @@ I've been fortunate to get hands on experience with:
     - IaC (Terraform specifically, I've done a bit of Terraform when deploying new AVD sessions) 
  6. Cloud Security
 
+
+
 ## Here are some cool picture's i've taken over the years with context, **enjoy**!
 Picture|Context
 -|-
-
+<img alt="FW" src="Media.jpg" width="200" height="300" align="left"> | FW stockyards
 <!--
 **leonisT2/leonisT2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
