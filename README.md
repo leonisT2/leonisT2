@@ -29,7 +29,10 @@ I've been fortunate to get hands on experience with:
     - IaC (Terraform specifically, I've done a bit of Terraform when deploying new AVD sessions) 
  6. Cloud Security
 
-
+[x] Phase 0: Starting from zeron
+[ ] Phase 1: Git, Linux, and Bash
+[ ] Phase 2: Programming
+[ ] Phase 3: Cloud fundamentals
 
 ## Here are some cool picture's i've taken over the years with context, **enjoy**!
 Picture|Context
