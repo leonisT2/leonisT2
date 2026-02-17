@@ -3,7 +3,7 @@
 ## My name is **Alex** :)
 
 ### I'm currently a Junior system administrator.
-I've been fortunate to get hands on experience with:
+In this role, I've hands on experience with:
 * RHEL, Ubunut, SUSE systems
 * Windows administration
 * Fortigate firewalls
@@ -16,6 +16,7 @@ I've been fortunate to get hands on experience with:
   - AVD(_Azure Virtual Desktop_)
   - *Entra ID*
   - SSO for enterprise applications
+* Intune Autopilot
  
 ### I'm currently going through the *Learn to Cloud* guide to gain foundational knowledge in:
  1. Linux (**NOTE**: I went through Sander van Vught's _Red Hat RHCSA 9 (EX200)_ book)
